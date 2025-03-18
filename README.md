@@ -3,7 +3,7 @@
                La ✨MAGIA✨ del Amigo 🤝 Secreto 🕵️
 
 🪄 Descripción
-¡Bienvenida al lugar donde la amistad se recompensa con *REGALOS* 🎁! Este proyecto es un para realizar un sorteo diseñado para celebrar la conexión especial entre amigos, donde la alegría de compartir un momento especial juntos va de la mano con la emoción de recibir regalos. 
+¡Bienvenida al lugar donde la amistad se recompensa con *REGALOS* 🎁! Este proyecto es para realizar un sorteo  fue diseñado para celebrar la conexión especial entre amigos, donde la alegría de compartir un momento especial juntos va de la mano con la emoción de recibir regalos. 
 
 
 ![image](https://github.com/user-attachments/assets/4fae18f8-2e9b-4078-bad8-5b7e81d771dd)
