@@ -13,7 +13,7 @@
 ## Estado del Proyecto: Completado con **Magia:** 100% ✨
 
 ## Cómo usar
-1.Ingresa al link html 
+1.Ingresa al index.html
 
 2.Pon el nombre de tus amigos  💕💕
 
