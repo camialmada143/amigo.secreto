@@ -1,5 +1,5 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-//Crea un Array vacio
+//Creo un Array vacio
 let amigos = [];
 //Desarrollo Funcion
 function agregarAmigo() {
